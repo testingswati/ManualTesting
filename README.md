@@ -1,0 +1,1 @@
+The School Management System is a web-based application designed to manage various school operations. The testing process ensures the application meets the specified requirements and is free of critical defects.
